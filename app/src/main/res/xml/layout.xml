@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+   <header
+       android:fragment="com.ccb.admin.listactivitydemo.PreferenceActivityWithPreferenceFragment$GeneralPerenceFragment"
+       android:icon="@mipmap/ic_launcher_round"
+       android:title="nihao">
+
+   </header>
+<header
+    android:icon="@mipmap/ic_launcher_round"
+    android:title="nihao">
+   <intent android:action="android.intent.action.VIEW"
+           android:data="https://www.baidu.com"
+       />
+</header>
+
+
+</preference-headers>
